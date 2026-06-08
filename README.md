@@ -1,6 +1,6 @@
 # Fraud Detection in Python
 
-Developed for CSE 891 Data Mining at Michigan State University in collaboration with Baylee Adams and Kyle Shope. Maintained by Subham Satapathy.
+Developed and maintained by Subham Satapathy.
 
 ## Project Overview
 The integrity of financial transactions is an incredibly important issue facing financial institutions and credit card companies alike. Having the ability to classify the legitimacy of a transaction to protect clients not only gives customers peace of mind, but is expensive. In 2016, according to CNBC, consumers lost more than $16B due to fraudulent transactions.
